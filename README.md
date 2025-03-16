@@ -73,8 +73,8 @@ This NestJS-based payment processing service implements a robust workflow with f
 ## Setup & Execution
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/your-repo/payment-service.git
-cd payment-service
+git clone https://github.com/SufyanMalik90/nest-payments.git
+cd nest-payments
 ```
 
 ### 2. Setup Environment Variables
